@@ -32,9 +32,3 @@ A high-fidelity social media interface built with **Flutter**. This project focu
 <p align="center">
   <img src="assets\app_demo.gif" alt="Facebook Clone Demo" width="300">
 </p>
-
-## 🚀 Installation
-
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/Jana-Abdelwahed/facebook_clone.git](https://github.com/Jana-Abdelwahed/facebook_clone.git)
