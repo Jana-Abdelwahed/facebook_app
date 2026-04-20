@@ -29,7 +29,7 @@ A high-fidelity social media interface built with **Flutter**. This project focu
 ## 🎬 App Demo
 
 <p align="center">
-  <img src="D:\OneDrive\Videos\Screen Recordings\facebook.mp4" alt="Facebook Clone Demo" width="300">
+  <img src="assets\facebook.mp4" alt="Facebook Clone Demo" width="300">
 </p>
 
 ## 🚀 Installation
